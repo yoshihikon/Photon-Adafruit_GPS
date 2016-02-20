@@ -1,0 +1,7 @@
+{
+	"name": "Adafruit_GPS",
+	"author": "Limor Fried/Ladyada",
+	"version": "1.0.0",
+	"license": "BSD license",
+	"description": "Adafruit GPS library"
+}
